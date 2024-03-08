@@ -1,12 +1,10 @@
-> 2nd-book-study
-
- ![KakaoTalk_Photo_2024-03-08-04-11-19](https://github.com/inside-coding/cs-note/assets/134191815/d8e80902-bf49-467b-9a33-cc4635e53f38)
+![KakaoTalk_Photo_2024-03-08-04-11-19](https://github.com/inside-coding/cs-note/assets/134191815/d8e80902-bf49-467b-9a33-cc4635e53f38)
 
 
 
 
 </br>
-</br>
+
 
 ## 📚 새로운 책을 만날 시간! - "면접을 위한 CS 전공지식 노트"
 
