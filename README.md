@@ -44,10 +44,6 @@
 
 <table>
   <tr>
-    <td>🗂️ folder convention</td>
-    <td>name / cs / 00장_장의 제목.md</td>
-  </tr>
-  <tr>
     <td>💬 commit convention</td>
     <td>name : chap00</td>
   </tr>
