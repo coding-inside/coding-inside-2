@@ -271,7 +271,7 @@ _** 지금까지 TCP/IP 4 계층에 대해 알아보았는데 그렇다면 계�
 
 >**ARP** 
 >
-**ARP(Address Resolution Protocol)**는 수신 호스트의 주소 변환 기능을 제공하는데, 사용자가 입력한 원격 IP 주소를 이용하여 원격 MAC 주소를 제공하는 프로토콜이다.
+**ARP(Address Resolution Protocol)**은 수신 호스트의 주소 변환 기능을 제공하는데, 사용자가 입력한 원격 IP 주소를 이용하여 원격 MAC 주소를 제공하는 프로토콜이다.
 
 ![](https://velog.velcdn.com/images/psik_2/post/870eaa92-549c-4e7d-9f45-19783a8eed99/image.png)
 
