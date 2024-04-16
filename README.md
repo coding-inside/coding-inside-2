@@ -119,14 +119,17 @@ QNA 관련해서 git의 마크다운 파일로 전원 업로드 완료 <br />
 
 #### 5주차
 
+5주차 관련 내용은 비대면으로 진행 <br />
+대면으로 만나 다음 스터디에 대한 얘기와 개인적인 사담 나눔 <br />
+
 <p align="center">
-<img width="60%" src="" />
+<img width="60%" src="https://github.com/inside-coding/cs-note/assets/134191817/b2037785-d391-4b5f-8ef3-70fac23defcb" />
 </p>
 
 ##### 🗣️ FeedBack
 
 ```
-
+"다음 스터디들에 대한 내용은 비대면으로 내일(다음 날) 더 얘기 나눠봅시다."
 ```
 
 <br />
