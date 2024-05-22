@@ -184,8 +184,7 @@ QNA 관련해서 git의 마크다운 파일로 전원 업로드 완료 <br />
 
 ##### AMY
 
-```
-```
+@55555-Jyeon 회고 게시글에서 확인하기 → <a  href="https://velog.io/@55555-jyeon/bookStudy-cs-note">click me</a>
 
 ##### JACK
 
